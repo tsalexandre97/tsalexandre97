@@ -6,6 +6,6 @@ Atuo na área de Desenvolvimento Web como Full Stack a 10 anos. Específicamente
 
 - 💻 Atualmente estou trabalhando em uma Agência de Marketing Digital em São Paulo.
 - 🌱 Atualmente estudo ReactJs, NodeJs e a metodologia SCRUM.
-- 👯 No momento estou me colando a disposição para contribuir com React
+- 👯 No momento estou me colocando a disposição para contribuir com React
 - 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/tiago-alexandre-80a40092/) ou [Email](tsalexandre97@hotmail.com) 
 
