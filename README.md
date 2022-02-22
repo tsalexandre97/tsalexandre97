@@ -5,7 +5,6 @@ Atuo na área de Desenvolvimento Web como Full Stack a 10 anos. Específicamente
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsalexandre97&show_icons=true&hide_border=true)
 
 - 💻 Atualmente estou trabalhando em uma Agência de Marketing Digital em São Paulo.
-- 🌱 Atualmente estudo ReactJs, NodeJs e a metodologia SCRUM.
-- 👯 No momento estou me colocando a disposição para contribuir com React
-- 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/tiago-alexandre-80a40092/) ou [Email](tsalexandre97@hotmail.com) 
+- 🌱 Atualmente estudo Docker, ReactJs, NodeJs.
+- 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/tiago-alexandre-80a40092/) ou Email: tsalexandre97@hotmail.com 
 
