@@ -1,15 +1,38 @@
-### Olá, eu sou **Tiago Alexandre** 👋
-"Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, busco constantemente aprender e aplicar novos conceitos para resolver desafios complexos. No meu GitHub, você encontrará uma variedade de projetos que refletem minha jornada e crescimento como um entusiasta de tecnologia."
+# Olá, eu sou Tiago Alexandre 👋
 
-Como um versátil desenvolvedor de software, possuo experiência em uma variedade de linguagens de programação, incluindo Javascript, PHP e Node.js. Tenho um domínio sólido de frameworks como React e Next, além de trabalhar eficientemente com Tailwind para criar interfaces amigáveis. 
+Desenvolvedor Full Stack com foco em backend, APIs, banco de dados e arquitetura de sistemas. Gosto de construir aplicações com organização, regras de negócio bem definidas e soluções que façam sentido no mundo real.
 
-No que diz respeito aos bancos de dados, PostgreSQL e MySQL são minhas especialidades. Adicionalmente, possuo experiência prática com Laravel, Yii Framework e Codeigniter, o que amplia minha capacidade de desenvolver soluções de software robustas e eficientes.
+Atuo principalmente com JavaScript, Node.js, PHP e SQL, além de experiência com React, Next.js e Tailwind no desenvolvimento de interfaces. No backend, tenho interesse especial em modelagem de dados, integração entre serviços, mensageria e aplicações orientadas a eventos.
 
- Fique à vontade para explorar, contribuir e entrar em contato para qualquer dúvida ou colaboração. Obrigado por visitar!
- 
+Aqui no GitHub, você vai encontrar projetos que refletem minha evolução prática como desenvolvedor, com foco em aplicações web, APIs, bancos de dados e soluções escaláveis.
+
+## Stack principal
+
+- **Backend:** Node.js, PHP, JavaScript
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Banco de dados:** PostgreSQL, MySQL, MongoDB
+- **Frameworks e ferramentas:** Laravel, Yii Framework, CodeIgniter, Docker, RabbitMQ, Git
+
+## Projetos em destaque
+
+### [Order Processing Platform](https://github.com/tsalexandre97/Order-Processing-Platform)
+Plataforma backend em Node.js com PostgreSQL, RabbitMQ e Docker para processamento assíncrono de pedidos com arquitetura orientada a eventos.
+
+### [BookTrack](https://github.com/tsalexandre97/BookTrack)
+API backend para gerenciamento de livros, usuários e reviews, com foco em organização, escalabilidade e documentação.
+
+### [Order Events Service](https://github.com/tsalexandre97/order-events-service)
+Serviço em Node.js com RabbitMQ para processamento assíncrono de eventos de pedidos.
+
+## Atualmente
+
+- Desenvolvendo projetos com foco em backend e arquitetura orientada a eventos
+- Estudando Docker, mensageria, Node.js e boas práticas de arquitetura
+- Construindo minha própria empresa de soluções digitais
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/tiago-alexandre-software-engineer/)
+- **Email:** tsalexandre97@hotmail.com
+
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsalexandre97&show_icons=true&hide_border=true)
-
-- 💻 Atualmente estou trabalhando em um projeto pessoal, minha propria empresa de Soluções Digitais.
-- 🌱 Atualmente estudo Docker, ReactJs, NodeJs.
-- 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/tiago-alexandre-80a40092/) ou Email: tsalexandre97@hotmail.com 
-
