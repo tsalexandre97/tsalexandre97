@@ -1,38 +1,90 @@
 # Olá, eu sou Tiago Alexandre 👋
 
-Desenvolvedor Full Stack com foco em backend, APIs, banco de dados e arquitetura de sistemas. Gosto de construir aplicações com organização, regras de negócio bem definidas e soluções que façam sentido no mundo real.
+Desenvolvedor de Software com foco em backend, engenharia de software e construção de sistemas escaláveis.
 
-Atuo principalmente com JavaScript, Node.js, PHP e SQL, além de experiência com React, Next.js e Tailwind no desenvolvimento de interfaces. No backend, tenho interesse especial em modelagem de dados, integração entre serviços, mensageria e aplicações orientadas a eventos.
+Gosto de resolver problemas através de software e tenho interesse especial por arquitetura de sistemas, APIs, mensageria, modelagem de dados, computação em nuvem e aplicações orientadas a eventos.
 
-Aqui no GitHub, você vai encontrar projetos que refletem minha evolução prática como desenvolvedor, com foco em aplicações web, APIs, bancos de dados e soluções escaláveis.
+Minha principal área de atuação é o ecossistema JavaScript, utilizando Node.js e TypeScript no desenvolvimento de aplicações backend, além de experiência com PHP, bancos de dados relacionais e desenvolvimento frontend com React e Next.js.
 
-## Stack principal
+Acredito que software vai muito além de escrever código. Por isso, busco evoluir constantemente em temas como arquitetura, qualidade de software, observabilidade, integração entre serviços e boas práticas de engenharia.
 
-- **Backend:** Node.js, PHP, JavaScript
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Banco de dados:** PostgreSQL, MySQL, MongoDB
-- **Frameworks e ferramentas:** Laravel, Yii Framework, CodeIgniter, Docker, RabbitMQ, Git
+---
 
-## Projetos em destaque
+## 🚀 Stack Principal
 
-### [Order Processing Platform](https://github.com/tsalexandre97/Order-Processing-Platform)
-Plataforma backend em Node.js com PostgreSQL, RabbitMQ e Docker para processamento assíncrono de pedidos com arquitetura orientada a eventos.
+### Backend
 
-### [BookTrack](https://github.com/tsalexandre97/BookTrack)
-API backend para gerenciamento de livros, usuários e reviews, com foco em organização, escalabilidade e documentação.
+* Node.js
+* TypeScript
+* JavaScript
+* PHP
 
-### [Order Events Service](https://github.com/tsalexandre97/order-events-service)
-Serviço em Node.js com RabbitMQ para processamento assíncrono de eventos de pedidos.
+### Frontend
 
-## Atualmente
+* React
+* Next.js
+* Tailwind CSS
 
-- Desenvolvendo projetos com foco em backend e arquitetura orientada a eventos
-- Estudando Docker, mensageria, Node.js e boas práticas de arquitetura
-- Construindo minha própria empresa de soluções digitais
+### Bancos de Dados
 
-## Contato
+* PostgreSQL
+* MySQL
+* MongoDB
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-alexandre-software-engineer/)
-- **Email:** tsalexandre97@hotmail.com
+### Infraestrutura e Ferramentas
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tsalexandre97&show_icons=true&hide_border=true)
+* Docker
+* RabbitMQ
+* Git
+* GitHub Actions
+
+---
+
+## 📚 Atualmente Estudando
+
+* Arquitetura de Software
+* Sistemas Distribuídos
+* Event-Driven Architecture
+* Mensageria com RabbitMQ
+* Docker e Containers
+* Cloud Computing
+* Inteligência Artificial aplicada ao desenvolvimento de software
+
+---
+
+## 🏗 Projetos em Destaque
+
+### Order Processing Platform
+
+Plataforma backend construída com Node.js, PostgreSQL, RabbitMQ e Docker para processamento assíncrono de pedidos utilizando arquitetura orientada a eventos.
+
+### BookTrack
+
+API REST para gerenciamento de livros, usuários e avaliações, explorando conceitos de organização de domínio, persistência de dados e boas práticas de desenvolvimento backend.
+
+### Order Events Service
+
+Microsserviço responsável pelo processamento assíncrono de eventos utilizando RabbitMQ e comunicação baseada em eventos.
+
+---
+
+## 🎯 Objetivos
+
+Atualmente estou focado em me tornar um profissional cada vez mais forte em:
+
+* Engenharia de Software
+* Arquitetura Backend
+* Sistemas Escaláveis
+* Cloud Computing
+* Inteligência Artificial aplicada ao desenvolvimento
+
+Além disso, compartilho aprendizados sobre tecnologia e carreira através do LinkedIn enquanto construo minha trajetória profissional.
+
+---
+
+## 📫 Onde me encontrar
+
+* LinkedIn: [www.linkedin.com/in/tiago-alexandre-software-engineer](http://www.linkedin.com/in/tiago-alexandre-software-engineer)
+* E-mail: [tsalexandre97@hotmail.com](mailto:tsalexandre97@hotmail.com)
+
+> "Grandes sistemas não nascem complexos. Eles evoluem através de decisões bem tomadas."
